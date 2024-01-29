@@ -1,6 +1,6 @@
 @font-face {
     font-family: futur;
-    src: url(fonts/FUTRFW.TTF);
+    src: url("fonts/FUTRFW.TTF");
 }
 
 a.dropdown-item {
